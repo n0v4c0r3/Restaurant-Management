@@ -25,7 +25,7 @@
 [Download Now](https://novacore.stores.instamojo.com/product/246786/restaurant-management/)
 
 
-# feature
+# features 
 Resturant Management system in php and mysql (Rms)
 
 
