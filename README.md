@@ -1,4 +1,4 @@
-# Resturant Management
+# Restaurant Management
 
   - php
   - mysql
@@ -14,27 +14,27 @@
 ![billing](/screenshot/bill.png)
 ![menu](/screenshot/menu.png)
 
-# Default data!
+# Default data
 
   - database name: admin_lnc
   - default username : admin@admin.com
-  - pass: admin@nova
+  - password: admin@nova
 
-# Downlaod This Project : 
+# Download this project : 
 
 [Download Now](https://novacore.stores.instamojo.com/product/246786/restaurant-management/)
 
 
-# features 
-Resturant Management system in php and mysql (Rms)
+# Features 
+Restaurant Management system in PHP and MySQL (RMS)
 
 
 - Simple dashboard to keep track of everything
-- Manage Available Tables
-- Manage order according to table available
+- Manage available tables
+- Manage order according to the table available
 - Billing system for each table
-- Pdf generate report of order
+- Generates a PDF report of billed orders
 - Staff management
 - Change password
-- bar graph to track orders
-- add remove menu inventory
+- Bar graph to track orders
+- Add remove menu inventory
